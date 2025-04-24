@@ -12,11 +12,7 @@
 - [🚀 Tecnologias](#-tecnologias)
 - [📂 Estrutura de Pastas](#-estrutura-de-pastas)
 - [🛠️ Como Rodar o Projeto](#️-como-rodar-o-projeto)
-- [🌐 Deploy](#-deploy)
-- [🤝 Contribuindo](#-contribuindo)
 - [📄 Licença](#-licença)
-- [📬 Contato](#-contato)
-
 ---
 
 ## 📘 Sobre o Projeto
