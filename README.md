@@ -1,6 +1,6 @@
 # 📘 Nome do Projeto
 
-![Banner do Projeto](./public/images/banner.png) 
+<img src="./public/images/banner.png" alt="Banner do Projeto" width="100%" height="auto" />
 
 Uma descrição breve e impactante do seu projeto.  
 Ex: Um guia visual completo e responsivo sobre Hypixel SkyBlock, feito com Next.js + Tailwind.
