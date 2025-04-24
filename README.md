@@ -29,8 +29,6 @@ Liste as tecnologias principais usadas no projeto:
 - 🧠 **TypeScript**
 - 🎨 **Tailwind CSS**
 - 🔒 **ESLint / Prettier**
-- 🌐 **Netlify / Vercel** (para deploy)
-
 ---
 
 ## 📂 Estrutura de Pastas
