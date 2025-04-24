@@ -2,8 +2,7 @@
 
 <img src="./public/images/banner.png" alt="Banner do Projeto" width="100%" height="auto" />
 
-Uma descrição breve e impactante do seu projeto.  
-Ex: Um guia visual completo e responsivo sobre Hypixel SkyBlock, feito com Next.js + Tailwind.
+ Um guia visual completo e responsivo sobre Hypixel SkyBlock, feito com Next.js + Tailwind.
 
 ---
 
@@ -22,9 +21,6 @@ Ex: Um guia visual completo e responsivo sobre Hypixel SkyBlock, feito com Next.
 
 ## 📘 Sobre o Projeto
 
-Descreva claramente o propósito, os problemas que ele resolve e para quem ele é útil.
-
-Exemplo:
 > O GuiaSB foi criado para ajudar jogadores brasileiros do Hypixel SkyBlock a entender e dominar as mecânicas do jogo, oferecendo conteúdo didático e atualizado sobre builds, reforges, slayers e muito mais.
 
 ---
