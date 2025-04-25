@@ -12,7 +12,6 @@
 - [🚀 Tecnologias](#-tecnologias)
 - [📂 Estrutura de Pastas](#-estrutura-de-pastas)
 - [🛠️ Como Rodar o Projeto](#️-como-rodar-o-projeto)
-- [📄 Licença](#-licença)
 ---
 
 ## 📘 Sobre o Projeto
@@ -65,8 +64,3 @@ npm run dev
 ```
 ---
 
-## 📄 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
